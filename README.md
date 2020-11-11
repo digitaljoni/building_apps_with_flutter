@@ -38,4 +38,10 @@ Running ```flutter doctor``` should show the following output:
 
 If you have set up everything correctly you should see a [✓] for Android Studio or Xcode. 
 
+### 4. Git clone Starter Repo
 
+We are going to build a simple app and this is going to be the starter repo.
+
+```
+https://github.com/digitaljoni/number_trivia
+```
